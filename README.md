@@ -7,4 +7,6 @@ A Python project that uses a monte carlo simulation to look into the effect of t
 5. the value of the constitution
 
 # Programms: 
-Definitions.py :
+tools.py : A library with the necessary functions
+Classes.py: A module with the necessary classes of objects
+Simulation.py: The programm
